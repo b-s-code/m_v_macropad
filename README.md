@@ -5,5 +5,6 @@ Built this to make mistakes on a cheap and easily sourced set of components.  Su
 - Clean design
 - Terrible implementation
 - Tested: actually works
+- Yes I used the MCU's packaging as a switch plate
 
 ![img](photo.png)
