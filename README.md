@@ -1,5 +1,9 @@
-# m_v_macropad
+# ~~Most Valuable~~ Minimum Viable Macropad
 
-~~Most Valuable Macropad~~
+Built this to make mistakes on a cheap and easily sourced set of components.  Succeeded in that purpose.
 
-Minimum Viable Macropad
+- Clean design
+- Terrible implementation
+- Tested: actually works
+
+![img](photo.png)
