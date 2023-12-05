@@ -1,6 +1,6 @@
 {
     "manufacturer": "b-s-code",
-    "keyboard_name": "handwired/m_v_macropad",
+    "keyboard_name": "m_v_macropad",
     "maintainer": "b-s-code",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
